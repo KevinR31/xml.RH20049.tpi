@@ -1,0 +1,15 @@
+{
+	"fichero":{
+		"ficha":{
+			"@id":"1",
+			"@fechaingreso":"21/08/2023",
+			"nombre":" Kevin Anthony",
+			"apellido":"Rogel Hernandez"
+		},
+		"telefonos":{"telefonoperso":"0000-1111"},
+		"correos":{"correoperso":"rh200049@ues.edu.sv"},
+		"datospersonales":{"dui":"00000000-1"},
+		"seguro":{"isss":"auhusdnua"},
+		"numPension":{"apf":"11111222223333111"}
+	}
+}

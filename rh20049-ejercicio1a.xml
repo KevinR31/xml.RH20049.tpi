@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<!-- ejemplo.xml RH20049 -->
-
-<fichero>
-<ficha id="1" fechaingreso="21/08/2023">
-<nombre> Kevin Anthony</nombre>
-<apellido>Rogel Hernandez</apellido>
-</ficha>
-</fichero>

@@ -1,0 +1,31 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"moneda":"El dolar",
+		"codigoArea":"503",
+		"idiomaOficial":"Español",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"La Libertad",
+				"cabecera":"Santa Tecla",
+				"habitantes":"660,652",
+				"altura":"30 MSNM"
+			},
+			{
+				"@id":"3",
+				"@nombre":"San Miguel",
+				"cabecera":"San Miguel",
+				"habitantes":"300,000",
+				"altura":"658 MSNM"
+			}
+		]
+	}
+}

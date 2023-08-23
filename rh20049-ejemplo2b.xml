@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- ejemplo2.xml  RH20049-->
+<pais nombre="El Salvador">
+<departamento id="1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+<departamento id="2" nombre="La Libertad">
+<cabecera>Santa Tecla</cabecera>
+<habitantes>660,652</habitantes>
+<altura>30 MSNM</altura>
+<moneda>El dolar $</moneda>
+<codigoArea>503</codigoArea>
+<idiomaOf>Español</idiomaOf>
+</departamento>
+</pais>

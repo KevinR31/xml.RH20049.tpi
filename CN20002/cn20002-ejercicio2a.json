@@ -1,0 +1,24 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"La Libertad",
+				"cabecera":"Santa Tecla",
+				"habitantes":"1,100,000",
+				"altura":"445 MSNM"
+			}
+		],
+		"monedas":"dolar",
+		"codtelefono":"503",
+		"idioma-of":"Español"
+	}
+}

@@ -1,0 +1,95 @@
+/* carnet-ejemplo1.css   SUCARNET  */
+*{
+    font-family: 'Poppins', 'Verdana', 'sans-serif';
+}
+
+fichero {
+    background-color: rgb(31, 31, 61);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+ficha {
+    background-color: rgb(5, 113, 152);
+    color: rgb(240,240,240);
+    display: block;
+    width: 60%;
+    text-align: center;
+}
+
+ficha::before{
+    content: "Id:"attr(id) "  ->  ""Fecha ingreso: "attr(fechaingreso);
+    font-size: 28px;
+    background-color: rgb(240, 240, 240);
+    color: rgb(70, 70, 70);
+    width: 100%;
+    display: block;
+}
+
+nombre {
+    font-size: 36px;
+    font-weight: bold;
+    background-color: rgb(240, 240, 240);
+    color: rgb(70, 70, 70);
+    display: block;
+    width: 100%;
+}
+
+apellido, direccion, edad, isss, afp, dui {
+    display: block;
+    font-size: 18px;
+    padding: 10px;
+}
+
+apellido::before {
+    content: "Apellido: ";
+    display: inline;
+    font-weight: bold;
+}
+
+direccion::before {
+    content: "Dirección: ";
+    display: inline;
+    font-weight: bold;
+}
+
+sitioweb::before {
+    content: "Sitio Web: ";
+    display: inline;
+    font-weight: bold;
+}
+
+edad::before {
+    content: "Edad: ";
+    display: inline;
+    font-weight: bold;
+}
+
+isss:before {
+    content: "Isss: ";
+    display: inline;
+    font-weight: bold;
+}
+
+afp::before {
+    content: "AFP: ";
+    display: inline;
+    font-weight: bold;
+}
+
+dui::before {
+    content: "DUI: ";
+    display: inline;
+    font-weight: bold;
+}
+
+autor{
+    color: white;
+    position: absolute;
+    top: 80%;
+    display: flex;
+    flex-direction: column;
+}

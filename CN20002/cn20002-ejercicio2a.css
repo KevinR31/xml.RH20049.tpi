@@ -1,0 +1,98 @@
+/* carnet-ejemplo1.css   SUCARNET  */
+*{
+    font-family: 'Poppins', 'Verdana', 'sans-serif';
+}
+
+pais {
+    background-color: darkslategray;
+    margin: 5px 5px;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+pais::before{
+    content: attr(nombre);
+    color: #cecece;
+    font-size: 36px;
+    font-weight: 800;
+}
+
+departamento {
+    background-color: rgb(226, 111, 17);
+    display: block;
+    margin: 10px 0px;
+    padding: 5px;
+    width: 80%;
+    text-align: center;
+}
+
+departamento::before {
+    content: "Departamento: "attr(nombre);
+    color: #cecece;
+    font-size: 23px;
+}
+
+cabecera, habitantes, altura {
+    color: rgb(211, 211, 211);
+    display: block;
+    font-size: 18px;
+    padding: 5px;
+}
+
+cabecera::before {
+    content: "Cabcera:";
+    color: rgb(211, 211, 211);
+    display: inline;
+    font-weight: bold;
+}
+
+habitantes::before {
+    content: "Habitantes: ";
+    color: rgb(211, 211, 211);
+    display: inline;
+    font-weight: bold;
+}
+
+altura::before {
+    content: "Altura: ";
+    color: rgb(211, 211, 211);
+    font-size: 16px;
+    display: inline;
+    font-weight: bold;
+}
+
+monedas, codtelefono, idioma-of {
+    background-color: darkslateblue;
+    color: white;
+    display: block;
+    padding: 5px;
+    width: 80%;
+    text-align: center;
+    font-size: 18px;
+}
+
+monedas::before{
+    content: "Moneda: ";
+    font-weight: bold;
+}
+
+codtelefono::before {
+    content: "Código Teléfono: ";
+    font-weight: bold;
+}
+
+idioma-of::before {
+    content: "Idioma oficial: ";
+    font-weight: bold;
+}
+
+autor{
+    color: white;
+    position: absolute;
+    top: 80%;
+    display: flex;
+    flex-direction: column;
+}

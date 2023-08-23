@@ -1,0 +1,33 @@
+/* carnet-ejemplo1.css   SUCARNET  */
+fichero {
+    background-color: blue;
+}
+
+ficha {
+    background-color: red;
+    display: block;
+}
+
+nombre {
+    color: white;
+    display: inline;
+}
+
+apellido {
+    color: yellow;
+    display: inline;
+}
+
+direccion {
+    color: yellow;
+    font-size: 1cm;
+    display: none;
+}
+
+autor{
+    color: white;
+    position: absolute;
+    top: 80%;
+    display: flex;
+    flex-direction: column;
+}

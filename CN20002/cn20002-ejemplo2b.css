@@ -1,0 +1,61 @@
+/* carnet-ejemplo1.css   SUCARNET  */
+fichero {
+    background-color: darkslateblue;
+}
+
+ficha {
+    background-color: red;
+    display: block;
+}
+
+nombre {
+    color: white;
+    display: block;
+}
+
+apellido {
+    color: yellow;
+    display: block;
+}
+
+direccion {
+    color: yellow;
+    font-size: 1cm;
+    display: block;
+}
+
+sitioweb {
+    color: yellow;
+    display: block;
+}
+
+edad {
+    color: yellow;
+    font-size: 1cm;
+    display: block;
+}
+
+isss {
+    color: yellow;
+    font-size: 1cm;
+    display: block;
+}
+
+afp {
+    color: yellow;
+    display: block;
+}
+
+dui {
+    color: yellow;
+    font-size: 1cm;
+    display: block;
+}
+
+autor{
+    color: white;
+    position: absolute;
+    top: 80%;
+    display: flex;
+    flex-direction: column;
+}

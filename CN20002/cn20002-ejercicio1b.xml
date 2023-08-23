@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="cn20002-ejercicio1b.css"?>
+<fichero>
+  <ficha id="1" fechaingreso="1/11/2012">
+    <nombre>Antonio</nombre>
+    <apellido>Barbero</apellido>
+    <direccion>Calle de Los Andes, 45</direccion>
+    <sitioweb>www.antonio.com</sitioweb>
+    <edad>25 años</edad>
+    <isss>0291090112-1</isss>
+    <afp>919029001209-1</afp>
+    <dui>09010218-9</dui>
+  </ficha>
+
+  <autor>
+    <nombre>
+      Alexis Daniel Castillo Nieto
+    </nombre>
+    <carnet>
+      Carnet: CN20002
+    </carnet>
+  </autor>
+</fichero>

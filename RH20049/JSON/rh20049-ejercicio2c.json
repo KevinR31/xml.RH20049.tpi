@@ -1,6 +1,8 @@
 {
 	"pais":{
 		"@nombre":"El Salvador",
+		"nombre":" Kevin Rogel",
+		"carnet":"RH20049",
 		"moneda":"El dolar",
 		"codigoArea":"503",
 		"idiomaOficial":"Español",

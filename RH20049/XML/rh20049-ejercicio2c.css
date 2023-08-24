@@ -1,0 +1,46 @@
+/* RH20049-ejemplo2c.css */
+pais{
+    background-color: lightslategray;
+    font-family: 'Times New Roman', Times, serif;
+}
+nombre {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+apellido {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+carnet{
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+}
+departamento{
+    color: lightgray;
+    font-family: 'Times New Roman', Times, serif;
+}
+cabecera{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+habitantes{
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+}
+altura{
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+}
+moneda{
+    color: white;
+        font-family: 'Times New Roman', Times, serif;
+}
+codigoArea{
+    color: white;
+        font-family: 'Times New Roman', Times, serif;
+}
+idiomaOf{
+    color: white;
+        font-family: 'Times New Roman', Times, serif;
+}

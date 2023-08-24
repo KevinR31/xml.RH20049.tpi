@@ -1,0 +1,31 @@
+/* RH20049-ejemplo1b.css */
+fichero {
+    background-color: blue;
+}
+
+ficha {
+    background-color: red;
+    display: block;
+}
+
+nombre {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+apellido {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+carnet{
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+}
+telefonoperso{
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+correoperso{
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+}

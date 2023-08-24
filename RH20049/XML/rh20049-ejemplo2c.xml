@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="rh20049-ejercicio2c.css" ?>
 <!-- ejemplo2.xml  RH20049-->
 <pais nombre="El Salvador">
+<nombre> Kevin Rogel</nombre>
+<carnet>RH20049</carnet>
 <moneda>El dolar</moneda>
 <codigoArea>503</codigoArea>
 <idiomaOficial>Español</idiomaOficial>

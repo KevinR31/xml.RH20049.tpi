@@ -4,7 +4,8 @@
 			"@id":"1",
 			"@fechaingreso":"21/08/2023",
 			"nombre":" Kevin Anthony",
-			"apellido":"Rogel Hernandez"
+			"apellido":"Rogel Hernandez",
+			"carnet":"RH20049"
 		},
 		"telefonos":{"telefonoperso":"0000-1111"},
 		"correos":{"correoperso":"rh200049@ues.edu.sv"},
